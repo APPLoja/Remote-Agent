@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPLoja.Remote.Core", "src\APPLoja.Remote.Core\APPLoja.Remote.Core.csproj", "{6A6C236F-36A7-4CD7-889D-AB5880053F80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPLoja.Remote.Service", "src\APPLoja.Remote.Service\APPLoja.Remote.Service.csproj", "{084089E0-02F0-4504-9195-C1B098DF3D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APPLoja.Remote.Core.Tests", "tests\APPLoja.Remote.Core.Tests\APPLoja.Remote.Core.Tests.csproj", "{A0412EA2-08F3-4BA7-9A09-144DEFB321BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6C236F-36A7-4CD7-889D-AB5880053F80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6C236F-36A7-4CD7-889D-AB5880053F80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6C236F-36A7-4CD7-889D-AB5880053F80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6C236F-36A7-4CD7-889D-AB5880053F80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084089E0-02F0-4504-9195-C1B098DF3D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084089E0-02F0-4504-9195-C1B098DF3D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084089E0-02F0-4504-9195-C1B098DF3D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084089E0-02F0-4504-9195-C1B098DF3D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0412EA2-08F3-4BA7-9A09-144DEFB321BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0412EA2-08F3-4BA7-9A09-144DEFB321BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0412EA2-08F3-4BA7-9A09-144DEFB321BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0412EA2-08F3-4BA7-9A09-144DEFB321BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
