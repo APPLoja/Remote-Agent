@@ -1,5 +1,6 @@
 using APPLoja.Remote.Core.Protocol;
 using APPLoja.Remote.Core.Tools;
+using Xunit;
 
 namespace APPLoja.Remote.Core.Tests;
 
